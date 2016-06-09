@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+bigquery_credentials.dat
+bigquery_project.txt
+*.csv
